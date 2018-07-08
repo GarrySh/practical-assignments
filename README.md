@@ -5,6 +5,8 @@
 Run the specified command for install project dependencies
 
 ```Bash
+git clone git@github.com:GarrySh/practical-assignments.git
+cd ./practical-assignments
 make install
 ```
 
